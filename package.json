@@ -1,0 +1,12 @@
+{
+  "name": "crowdin-prettier",
+  "version": "1.0.0",
+  "description": "tests crowdin interaction with prettier",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.17.0"
+  },
+  "scripts": {
+    "format": "prettier --write \"*.md\""
+  }
+}
